@@ -2,6 +2,6 @@ from django.db import models
 
 # Create your models here.
 
-# test
-# test
-# test
+# gül test
+# gül test
+# gül test
